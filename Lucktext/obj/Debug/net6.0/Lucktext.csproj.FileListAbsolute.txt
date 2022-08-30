@@ -1,0 +1,15 @@
+C:\Users\daniel.taherkhanian\Documents\Programmering C#\Lucktext\Lucktext\bin\Debug\net6.0\Lucktext.exe
+C:\Users\daniel.taherkhanian\Documents\Programmering C#\Lucktext\Lucktext\bin\Debug\net6.0\Lucktext.deps.json
+C:\Users\daniel.taherkhanian\Documents\Programmering C#\Lucktext\Lucktext\bin\Debug\net6.0\Lucktext.runtimeconfig.json
+C:\Users\daniel.taherkhanian\Documents\Programmering C#\Lucktext\Lucktext\bin\Debug\net6.0\Lucktext.dll
+C:\Users\daniel.taherkhanian\Documents\Programmering C#\Lucktext\Lucktext\bin\Debug\net6.0\Lucktext.pdb
+C:\Users\daniel.taherkhanian\Documents\Programmering C#\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.csproj.AssemblyReference.cache
+C:\Users\daniel.taherkhanian\Documents\Programmering C#\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.taherkhanian\Documents\Programmering C#\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.AssemblyInfoInputs.cache
+C:\Users\daniel.taherkhanian\Documents\Programmering C#\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.AssemblyInfo.cs
+C:\Users\daniel.taherkhanian\Documents\Programmering C#\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.csproj.CoreCompileInputs.cache
+C:\Users\daniel.taherkhanian\Documents\Programmering C#\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.dll
+C:\Users\daniel.taherkhanian\Documents\Programmering C#\Lucktext\Lucktext\obj\Debug\net6.0\refint\Lucktext.dll
+C:\Users\daniel.taherkhanian\Documents\Programmering C#\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.pdb
+C:\Users\daniel.taherkhanian\Documents\Programmering C#\Lucktext\Lucktext\obj\Debug\net6.0\Lucktext.genruntimeconfig.cache
+C:\Users\daniel.taherkhanian\Documents\Programmering C#\Lucktext\Lucktext\obj\Debug\net6.0\ref\Lucktext.dll
